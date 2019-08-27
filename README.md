@@ -11,5 +11,5 @@ Course website is at https://www2.stat.duke.edu/courses/Spring19/sta210.001/.
 
 # Notes for building the website:
 
-- Colors: #1689AE
+- Colors: #339898
   - To change, search & replace in `themes/material/static/css/material-kit.css`

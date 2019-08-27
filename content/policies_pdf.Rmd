@@ -1,9 +1,49 @@
 ---
-title: "Policies"
-markup: "mmark"
+title: "STA 210 Syllabus"
+author: "Fall 2019"
+date: "Course Website: [https://bit.ly/sta210-fa19](https://bit.ly/sta210-fa19)"
+output: pdf_document
 ---
 
-<a href = "policies_pdf.pdf"><i class="material-icons">dashboard</i></a> Click the icon to download a PDF copy of the course policies. 
+
+#### Lectures
+
+<font color="#00797C"><i class="fas fa-university"></i></font> &nbsp; Gross Hall 103 &nbsp;&nbsp; <font color="#00797C"><i class="fas fa-calendar"></i></font> &nbsp; Mon and Wed 3:05p - 4:20p
+<br>
+<br>
+
+#### Labs
+
+Lab 01 &nbsp;&nbsp; <font color="#00797C"><i class="fas fa-university"></i></font> &nbsp; Soc Psych 127 &nbsp;&nbsp; <font color="#00797C"><i class="fas fa-calendar"></i></font> &nbsp; Th 3:05p - 4:20p
+
+Lab 02  &nbsp;&nbsp; <font color="#00797C"><i class="fas fa-university"></i></font> &nbsp; Soc Sci 119 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font color="#00797C"><i class="fas fa-calendar"></i></font> &nbsp; Th 4:40p - 5:55p
+<br>
+<br>
+
+### Teaching team and office hours 
+
+<span></span>     | <span></span>     | <span></span>    | <span></span>    |  <span></span>      
+------------------|-------------------|------------------|------------------|------------------ 
+Instructor        | [Prof. Maria Tackett](http://stat.duke.edu/~mt324/) | <a href="mailto:maria.tackett@duke.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/matackett" title="GitHub"><i class="fa fa-github"></i></a> |TBD | Old Chem 118B
+TAs               | Cody Coombs | <a href="mailto:cody.coombs@duke.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/coombscody" title="GitHub"><i class="fa fa-github"></i></a> | TBD | Old Chem 203B
+          &nbsp;        | [Matty Pahren](https://www.linkedin.com/in/mattypahren) | <a href="mailto:martha.pahren@duke.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/mpahren" title="GitHub"><i class="fa fa-github"></i></a> | TBD | Old Chem 203B
+         &nbsp;         | [Ethan Shen](https://www.linkedin.com/in/ethan-shen-931010134/) | <a href="mailto:ethan.shen@duke.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/ethann-shen" title="GitHub"><i class="fa fa-github"></i></a> | TBD | Old Chem 203B
+         &nbsp;          | [Steven Winter](https://www.linkedin.com/in/steven-winter-3810a0109) | <a href="mailto:steven.winter@duke.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/szwinter" title="GitHub"><i class="fa fa-github"></i></a> | TBD | Old Chem 203B
+          &nbsp;         | Tong Wu | <a href="mailto:shitong.wu@duke.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/TongWu352" title="GitHub"><i class="fa fa-github"></i></a> | TBD | Old Chem 203B
+           &nbsp;        | [Evan Wyse](https://www.linkedin.com/in/evan-wyse-85305426/) | <a href="mailto:evan.wyse@duke.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/wyseguy7" title="GitHub"><i class="fa fa-github"></i></a> | TBD | Old Chem 203B
+                   
+
+### Textbooks
+
+<span></span>     | <span></span> | <span></span> | <span></span>
+---------------------------------|---------------------------------|---------------------------------|----------------------------------
+- [Handbook of Regression Analsyis](http://sakai.duke.edu) | James, Witten, Hastie, Tibshirani | Springer, 1st edition, 2013 | Freely available on Sakai
+- [R for Data Science](http://r4ds.had.co.nz/) | Chatterjee, Simonoff | Wiley, 1st edition, 2013 | Freely available online
+
+### Materials
+
+You should bring a fully-charged laptop, tablet with keyboard, or comparable device to every lecture and lab session.
+
 
 ### Course Learning Objectives
 
@@ -11,8 +51,7 @@ By the end of the semester, you will…
 
 - know methods for analyzing multivariate datasets and understand how these methods are applied in research
 - know how to check whether proposed statistical models are appropriate for given data
-- develop proficiency in addressing complex research questions using statistical evidence
-- develop proficiency in computing tools used to conduct reproducible statistical analyses, specifically R and Git
+- develop a proficiency in addressing complex research questions using statistical evidence
 - understand the process of data-based research by working on an independent research project
 
 ### Activities & Assessments
@@ -60,8 +99,7 @@ The second component will be based on completion of at least 80% of the class en
 #### Grade Calculation
 
 The final grade will be calculated as follows:
- 
-{.table .table2 .table-condensed .table-striped .text-left}
+
  <span></span>     | <span></span>  
 -----------|---------------------------------
 Homework | 25%
@@ -95,7 +133,7 @@ Duke University is committed to providing equal access to students with document
 - The teaching team is here to help you be successful in the course. You are encouraged to attend any of the office hours posted on the home page to ask questions as your study the course content and work through assignments. A lot of questions are most effectively answered in-person, so office hours are a valuable resource. Please use them!
 - Outside of class and office hours, any general questions about course content or assignments should be posted on Piazza since there are likely other students with the same questions. The questions you post will be visible to the entire class, so please email Professor Tackett directly with any specific questions about grades or personal matters. 
 
-Sometimes you may need help with the class that is beyond what can be provided by the teaching team. In that instance, I encourage you to visit the Academic Resource Center.  
+If you need help with the class that is beyond what can be provided by the teaching team. In that instance, I encourage you to visit the Academic Resource Center.  
 
 The [Academic Resource Center (ARC)](https://arc.duke.edu) offers free services to all students during their undergraduate careers at Duke.  Services include Learning Consultations, Peer Tutoring and Study Groups, ADHD/LD Coaching, Outreach Workshops, and more. Because learning is a process unique to every individual, they work with each student to discover and develop their own academic strategy for success at Duke. Contact the ARC to schedule an appointment. Undergraduates in any year, studying any discipline can benefit! Contact <a href="mailto:arc@duke.edu" title="email">ARC@duke.edu</a>, 919-684-5917, 211 Academic Advising Center Building, East Campus – behind Marketplace.
 <br>

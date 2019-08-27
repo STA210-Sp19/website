@@ -11,7 +11,6 @@ uglyURLs = true
 publishDir = "docs"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-
 [permalinks]
   post = "/:year/:month/:slug/"
 
@@ -55,20 +54,28 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   name = "RStudio"
   pre = "<i class=\"material-icons\">cloud</i>"
   url = "https://rstudio.cloud"
+  
 [[menu.main]]
   weight = 5
   identifier = "github"
   name = "GitHub"
   pre = "<i class='fab fa-github fa-lg'></i>"
-  url = "https://github.com/STA210-Sp19"
+  url = "https://github.com/sta210-fa19"
+
 [[menu.main]]
   weight = 6
+  identifier = "sakai"
+  name = "Sakai"
+  pre = "<i class=\"material-icons\">school</i>"
+  url = "http://sakai.duke.edu"
+  
+[[menu.main]]
+  weight = 7
   identifier = "help"
   name = "Help"
   pre = "<i class=\"material-icons\">help</i>"
   url = "https://piazza.com"
-
-
+  
 [[menu.footer]]
   weight = 1
   identifier = "Duke"
@@ -85,11 +92,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   identifier = "GitHub"
   name = "GitHub"
   pre = "<i class=\"button-icon fa fa-2x fa-github\"></i>"
-  url = "https://github.com/STA210-Sp19"
+  url = "https://github.com/sta210-fa19"
 [[menu.footer]]
-
 
 [params]
   dateFormat = "January 2, 2006"
-  background = "http://www2.stat.duke.edu/courses/Spring19/sta210.001/img/bikeshare-reg-plots.png"
-  favicon = "img/sta210-sticker.png"
+  background = "https://www2.stat.duke.edu/courses/Fall19/sta210.001/img/bikeshare-reg-plots.png"
+  favicon = "https://www2.stat.duke.edu/courses/Fall19/sta210.001/img/sta210_sticker.png"

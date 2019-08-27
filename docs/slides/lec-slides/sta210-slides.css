@@ -20,19 +20,19 @@ body {
 h2 {
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
-  color: #1689AE;
+  color: #339898;
   font-size: 12px;
   margin: 0.25em 0 0.5em 0;
 }
 h1, h3 {
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
-  color: #1689AE;
+  color: #339898;
 }
 a, a > code {
   font-family: 'Open Sans', sans-serif;
-  color: #7A4183;
-  text-decoration: none;
+  color: #993399;
+  text-decoration: underline;
   font-size: 14pt;
 }
 
@@ -48,7 +48,7 @@ a, a > code {
 .remark-code-line-highlighted     { background-color: #ffff88; }
 
 .inverse {
-  background-color: #1689AE;
+  background-color: #339898;
   color: #ffffff;
   /* text-shadow: 0 0 20px #333; */
 }
@@ -150,13 +150,13 @@ thead, tfoot, tr:nth-child(even) { background: #eee }
 }
 
 .vocab {
-  color: #9B02BD;
+  color: #993399;
   font-weight: bold;
   font-size: 14pt;
 }
 
 .vocab2 {
-  color: #1689AE;
+  color: #339898;
   font-weight: bold;
   font-size: 14pt;
 }
@@ -184,8 +184,8 @@ thead, tfoot, tr:nth-child(even) { background: #eee }
   margin-bottom: 12px;
 }
 .instructions {
-  border-left: solid 5px #f6e1fa;
-  background-color: #f6e1fa;
+  border-left: solid 5px #D7E7EC;
+  background-color: #D7E7EC;
   font-size: 90%;
   padding: 1px 16px;
   margin-top: 12px;

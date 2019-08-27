@@ -5,7 +5,6 @@ output:
     theme: yeti
 ---
 
-
 - [Reading 01: Introduction](https://www2.stat.duke.edu/courses/Spring19/sta210.001/reading/reading-01.html)
 
 - [Reading 02: Simple Linear Regression](https://www2.stat.duke.edu/courses/Spring19/sta210.001/reading/reading-02.html)
